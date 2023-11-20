@@ -1,6 +1,6 @@
 # Sistema de Riego Inteligente (Smart Watering System)
 
-Este proyecto consiste en la creación de un sistema de riego automático utilizando Arduino, un sensor de humedad del suelo, una bomba de agua y un solenoide para controlar el flujo de agua. El sistema se diseñó con el propósito de regar una planta de manera automática, basándose en los niveles de humedad del suelo.
+Este proyecto consiste en la creación de un sistema de riego automático utilizando Arduino, un sensor de humedad del suelo, una bomba de agua y un relé para controlar el flujo de agua. El sistema se diseñó con el propósito de regar una planta de manera automática, basándose en los niveles de humedad del suelo.
 
 ## Componentes Necesarios
 - [Arduino Uno](https://www.amazon.es/dp/B008GRTSV6?psc=1&ref=ppx_yo2ov_dt_b_product_details).
@@ -25,7 +25,7 @@ El código necesario para programar Arduino se encuentra en el archivo `code.ino
 
 ## Uso
 1. Conecta todos los componentes según el esquema proporcionado.
-2. Abre el archivo `codigo.ino` en el Arduino IDE y carga el código en tu placa.
+2. Abre el archivo `code.ino` en el Arduino IDE y carga el código en tu placa.
 3. Alimenta el sistema y observa cómo la planta se riega automáticamente cuando el suelo alcanza niveles de humedad bajos.
 
 ## Contribuciones
